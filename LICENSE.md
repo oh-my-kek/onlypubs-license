@@ -1,0 +1,43 @@
+Terms of Service Agreement for iOS App
+
+Effective Date: Jan 1 2023
+
+This Terms of Service Agreement (“Agreement”) is a legally binding agreement between [Insert Company Name] (“Company” or “We”) and you (“User” or “You”) governing Your use of the [Insert App Name] iOS application (“App”). By accessing or using the App, You agree to be bound by this Agreement.
+
+1. License Grant.
+Subject to the terms and conditions of this Agreement, We grant You a limited, non-exclusive, non-transferable, revocable license to use the App for Your personal, non-commercial use.
+
+2. User Obligations.
+You agree to use the App in accordance with all applicable laws and regulations. You also agree not to: (a) use the App for any unlawful purpose; (b) access or attempt to access any part of the App that You are not authorized to access; (c) disrupt or interfere with the security or performance of the App or any servers or networks used to make the App available; (d) reverse engineer or attempt to extract the source code of the App; (e) use the App in any way that may damage or impair the App’s functionality or availability; or (f) attempt to circumvent or disable any security features of the App.
+
+3. In-App Purchases.
+The App may allow You to purchase virtual items, services or other content (“In-App Purchases”) within the App. You acknowledge and agree that any In-App Purchases You make are final and non-refundable. You also acknowledge and agree that You are responsible for any charges incurred by You or anyone who has access to Your account, including minors, as a result of any In-App Purchases made using Your account.
+
+4. Payment Information.
+If You make any In-App Purchases, You may be asked to provide payment information, such as credit card information, to Apple Inc. (“Apple”). You acknowledge and agree that We do not collect or store Your payment information, and that all payment transactions are processed by Apple in accordance with their terms and conditions.
+
+5. Ownership and Intellectual Property.
+The App and all content and materials contained therein, including without limitation, text, graphics, images, software, and other information (collectively, the “Content”) are owned by or licensed to Us, and are protected by copyright, trademark, and other intellectual property laws. You may not use the Content for any commercial purpose without Our prior written consent.
+
+6. Disclaimer of Warranties.
+THE APP IS PROVIDED ON AN “AS IS” AND “AS AVAILABLE” BASIS, WITHOUT WARRANTIES OF ANY KIND, EITHER EXPRESS OR IMPLIED, INCLUDING WITHOUT LIMITATION, WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, OR NON-INFRINGEMENT. WE DO NOT WARRANT THAT THE APP WILL BE UNINTERRUPTED, ERROR-FREE, OR FREE FROM VIRUSES OR OTHER HARMFUL COMPONENTS.
+
+7. Limitation of Liability.
+TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, WE SHALL NOT BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL OR PUNITIVE DAMAGES, OR ANY LOSS OF PROFITS OR REVENUES, WHETHER INCURRED DIRECTLY OR INDIRECTLY, OR ANY LOSS OF DATA, USE, GOODWILL, OR OTHER INTANGIBLE LOSSES, ARISING OUT OF YOUR USE OR INABILITY TO USE THE APP, EVEN IF WE HAVE BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+
+8. Indemnification.
+You agree to indemnify, defend and hold Us harmless from and against any and all claims, damages, losses, costs, expenses, and liabilities (including attorneys’ fees) arising out of or related to Your use of the App, Your breach of this Agreement.
+
+9. Termination.
+We may terminate this Agreement and Your access to the App at any time without notice, for any reason or no reason, including without limitation, if You violate any provision of this Agreement. Upon termination, You must immediately cease using the App and delete all copies of the App from Your devices.
+
+10. Governing Law and Dispute Resolution.
+This Agreement shall be governed by and construed in accordance with the laws of the state or country where the App is made available. Any dispute arising out of or related to this Agreement or Your use of the App shall be resolved through binding arbitration conducted by a single arbitrator in accordance with the rules of the applicable arbitration association. The arbitration shall take place in the state or country where the App is made available. The arbitrator’s decision shall be final and binding on the parties, and judgment may be entered in any court having jurisdiction thereof.
+
+11. Changes to this Agreement.
+We may modify this Agreement from time to time in Our sole discretion, and Your continued use of the App following any such modification shall constitute Your acceptance of the modified Agreement. It is Your responsibility to review this Agreement periodically for changes.
+
+12. Entire Agreement.
+This Agreement constitutes the entire agreement between You and Us regarding Your use of the App and supersedes all prior or contemporaneous agreements or understandings, whether written or oral, relating to such use.
+
+If You have any questions or concerns about this Agreement, please contact us on Telegram @onlypubs_app.
